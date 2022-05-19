@@ -31,7 +31,7 @@ label {
 
 
 .slider {
-  max-width: 80em;
+  max-width: 960px;
   border-radius: 50px 50px;
   -webkit-box-shadow: 4px 4px 72px 0px rgba(251, 0, 0, 0.99);
   -moz-box-shadow: 4px 4px 72px 0px rgba(251, 0, 0, 0.99);
